@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
+        enunciado: "Quail tipo de filme é melhor, ação ou aventura?",
         alternativas: [
             {
                 texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
