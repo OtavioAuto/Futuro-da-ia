@@ -23,24 +23,26 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Porque ação expressa mais as emoções e tem mais impacto no filme",
-                afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
+                afirmacao: "O termo ação nos filmes refere-se a um gênero cinematográfico focado na energia física, movimento constante e situações de alto risco. É o tipo de filme onde o conflito principal é resolvido por meio de proezas físicas, combates e perseguições, em vez de apenas diálogos."
             },
             {
                 texto: "Aventura trás jornadas emocionantes em lugares incríveis e perigosos com um objetivo determinado pelo protagonista.",
-                afirmacao: "Continuar aqui!!!"
+                afirmacao: "O termo aventura nos filmes se refere a um gênero cinematográfico focado em jornadas, exploração e superação de grandes desafios em cenários extraordinários. Diferente do cinema de ação puro, que foca em combates e perseguições físicas, a aventura é movida pela descoberta do desconhecido e pelo senso de maravilhamento."
             }
         ]
     },
     {
-        enunciado: "Atualmente vemos um grande aumentos nos valores dos livros físicos, oque dificulta a aquisição dos mesmos, a leitura digital vem se popularizou entre os leitores nos ultimos anos em parte pelos preços mais acessiveis, então seria ela uma alternativa viavel aos livros físicos?",
+        enunciado: "E por que você não gosta do outro tema?",
         alternativas: [
             {
-                texto: "Provavelmente, já que iria possibilitar uma maior aquisição por parte da população.",
-                afirmacao: "Já para quem não  tem condições de adquirir livros físicos os livros online são uma otima opção, pois permite a aquisição dos mesmos por um preço muito menor ou até mesmo gratuitamente, o que sem duvidas pode abrir grandes portas para esses leitores."
+                texto: "Por que nos filmes de ação, não tem desenvolvimento da história dos personagem.",
+                afirmacao: "Um ponto negativo recorrente em filmes de ação é a tendência de priorizar o espetáculo visual e os efeitos especiais em detrimento do desenvolvimento de personagens e do enredo.
+
+Quando isso acontece, a narrativa pode se tornar previsível e rasa, fazendo com que as sequências de luta ou perseguição pareçam repetitivas ou desconectadas da história principal."
             },
             {
-                texto: "Não teria grande importância já que grande parte da população continuaria adquirindo livros físicos apesar dos preços.",
-                afirmacao: "Apesar do consumo de livros físicos ainda ser maioria os livros oline permitem que pessoas que não podem adquirir livros físicos tenham acesso a leitura, podendo gerar grandes oportunidades para esses leitores."
+                texto: "Porque os personagens são "carregados" pelo roteiro",
+                afirmacao: "Por focar muito na jornada, no ritmo acelerado e na exploração de novos cenários, os roteiros frequentemente recorrem a resoluções simplistas para tirar os protagonistas de situações impossíveis — como encontrar mapas perfeitos por acaso, ter vilões que erram no momento mais conveniente ou descobrir itens mágicos/tecnológicos exatamente quando são necessários."
             }
         ]
     },
